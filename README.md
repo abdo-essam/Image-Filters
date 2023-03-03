@@ -9,7 +9,7 @@ This code loads an image using OpenCV, converts it to grayscale, and applies var
 
 The image processing operations applied are:
 
--Addition of a constant value (90) to each pixel value of the grayscale image.
+--Addition of a constant value (90) to each pixel value of the grayscale image.
 -Subtraction of a constant value (90) from each pixel value of the grayscale image.
 -Multiplication of each pixel value of the grayscale image by a constant value (1.5).
 -Inverting the grayscale image by taking the bitwise complement of each pixel value.
