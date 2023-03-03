@@ -16,5 +16,7 @@ The image processing operations applied are:
 
 The resulting images are displayed in a 3x3 grid using Matplotlib. The first column of the grid shows the original color image, the second column shows the grayscale image, and the remaining columns show the result of each image processing operation. Each image is displayed with a title indicating the name of the processing operation.
 
+Instructions : 
+plt.show() at the end of the script to display the images. This function will open a window and display the images. If you are running the script in a Jupyter Notebook, you may not need to use plt.show() because Jupyter Notebook can display Matplotlib figures automatically.
 
 ![afdf]()
