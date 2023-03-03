@@ -19,4 +19,4 @@ The resulting images are displayed in a 3x3 grid using Matplotlib. The first col
 Instructions : 
 plt.show() at the end of the script to display the images. This function will open a window and display the images. If you are running the script in a Jupyter Notebook, you may not need to use plt.show() because Jupyter Notebook can display Matplotlib figures automatically.
 
-![afdf](https://github.com/abdo-essam/Image-Filters/blob/main/output.png?raw=true)
+![afdf](https://github.com/abdo-essam/Image-Filters/blob/main/output.png)
